@@ -1,12 +1,15 @@
 package test;
 
+import org.junit.Test;
+
 public class test {
 
-	public static void main(String[] args) {
+	@Test
+	public void ttt() {
 		// TODO Auto-generated method stub
 
-		String s="soni";
-		System.out.println("This is me:Suraj"+s);
+		
+		System.out.println("This is Suraj");
 	}
 
 }
